@@ -1,0 +1,4 @@
+<req type="hash">
+  <name type="string"></name>
+  <amount type="number"></amount>
+</req>

@@ -1,0 +1,6 @@
+<user-login type="hash">
+  <usr type="string"></usr>
+  <pwd type="string"></pwd>
+  <conf type="number"></conf>
+  <reqs type="array" of="./reqs.xml"></reqs>
+</user-login>

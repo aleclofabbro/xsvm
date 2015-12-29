@@ -1,0 +1,19 @@
+{
+  "name": "xsvm",
+  "description": "xsvm",
+  "dependencies": {
+    "requirejs": "",
+    "bootstrap": ""
+  },
+  "authors": [
+    "aleclofabbro <alessandro.giansanti@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
